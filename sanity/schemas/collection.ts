@@ -39,7 +39,7 @@ export default defineType({
       name: 'creator',
       title: 'Creator',
       type: 'reference',
-      to: {type: 'creator'},
+      to: { type: 'creator' },
     }),
     defineField({
       name: 'mainImage',
