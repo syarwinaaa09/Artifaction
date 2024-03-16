@@ -22,6 +22,7 @@
     "next-sanity": "^8.4.1",
     "react": "18.2",
     "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
     "sanity": "3.25",
     "styled-components": "6.0"
   },
